@@ -1,0 +1,17 @@
+{
+    "raju": {
+        "account_holder": "raju",
+        "pin": "4900",
+        "balance": 500.0
+    },
+    "harshi": {
+        "account_holder": "harshi",
+        "pin": "3000",
+        "balance": 50000.0
+    },
+    "mani": {
+        "account_holder": "mani",
+        "pin": "4000",
+        "balance": 50000.0
+    }
+}
